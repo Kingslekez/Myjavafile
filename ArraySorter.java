@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class ArraySorter {
     public static void main(String[] args) {
         // Sample array
-        int[] array = {5, 2, 8, 1, 3};
+        int[] array = {5, 2, 8, 1, 3, 6, 8, 88};
         
         System.out.println("Original Array: " + Arrays.toString(array));
 
